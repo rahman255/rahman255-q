@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Minuman Segar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Cafe Minuman Segar</h1>
+            <p>Temukan Kenikmatan Minuman Segar Kami</p>
+        </div>
+    </header>
+
+    <section class="video-section">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="menu-section">
+        <div class="menu-content">
+            <h2>Menu Utama</h2>
+            <!-- Daftar menu minuman -->
+            <ul>
+                <li>Es Teh Manis</li>
+                <li>Kopi Hitam</li>
+                <li>Jus Jeruk</li>
+                <!-- Tambahkan menu lainnya sesuai kebutuhan -->
+            </ul>
+        </div>
+    </section>
+
+    <section class="slogan-section">
+        <div class="slogan-content">
+            <h2>Slogan Minuman Es Teh</h2>
+            <p>Segarnya Dingin, Manisnya Pas</p>
+        </div>
+    </section>
+
+    <section class="social-media-section">
+        <div class="social-media-content">
+            <h2>Temui Kami di Media Sosial</h2>
+            <!-- Tambahkan tautan ke akun media sosial -->
+            <ul>
+                <li><a href="https://www.facebook.com/">Facebook</a></li>
+                <li><a href="https://twitter.com/">Twitter</a></li>
+                <!-- Tambahkan tautan media sosial lainnya sesuai kebutuhan -->
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Cafe Minuman Segar. All rights reserved.</p>
+    </footer>
+
+    <!-- Script JavaScript untuk interaksi dengan pengguna -->
+    <script src="script.js"></script>
+</body>
+</html>
